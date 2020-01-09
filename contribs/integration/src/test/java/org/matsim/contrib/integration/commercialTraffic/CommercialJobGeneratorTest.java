@@ -1,6 +1,5 @@
-package commercialtraffic.commercialJob;
+package org.matsim.contrib.integration.commercialTraffic;
 
-import commercialtraffic.TestScenarioGeneration;
 import org.junit.Ignore;
 import org.junit.Rule;
 import org.matsim.api.core.v01.Scenario;
