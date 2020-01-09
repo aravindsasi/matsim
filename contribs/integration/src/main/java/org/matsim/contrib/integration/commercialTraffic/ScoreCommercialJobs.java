@@ -17,7 +17,7 @@
  *                                                                         *
  * *********************************************************************** */
 
-package commercialtraffic.commercialJob;/*
+package org.matsim.contrib.integration.commercialTraffic;/*
  * created by jbischoff, 17.06.2019
  */
 

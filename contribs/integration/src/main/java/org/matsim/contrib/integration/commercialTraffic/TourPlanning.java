@@ -18,7 +18,7 @@
  *                                                                         *
  * *********************************************************************** */
 
-package commercialtraffic.commercialJob;
+package org.matsim.contrib.integration.commercialTraffic;
 
 import com.graphhopper.jsprit.core.algorithm.VehicleRoutingAlgorithm;
 import com.graphhopper.jsprit.core.algorithm.box.Jsprit;

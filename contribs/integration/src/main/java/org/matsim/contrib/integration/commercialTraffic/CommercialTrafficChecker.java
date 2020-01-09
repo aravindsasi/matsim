@@ -18,7 +18,7 @@
  *                                                                         *
  * *********************************************************************** */
 
-package commercialtraffic.commercialJob;
+package org.matsim.contrib.integration.commercialTraffic;
 
 
 import org.apache.commons.lang3.mutable.MutableBoolean;
